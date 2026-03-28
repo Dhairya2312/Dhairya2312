@@ -1,6 +1,6 @@
 <h1>Dhairya Jethi</h1>
 
-<p>Data Analyst · Vadodara, India</p>
+<p>Data Analyst · Gujarat, India</p>
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
