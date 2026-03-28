@@ -1,32 +1,18 @@
 # 👋 Hi, I'm Dhairya
 
-## 🚀 About Me
-Data Analytics enthusiast skilled in SQL, Excel, and Power BI, focused on turning data into actionable insights.
+**Data Analytics | SQL • Excel • Power BI**
+
+Turning data into actionable insights through projects and dashboards.
 
 ---
 
-## 💼 What I Do
-- Write optimized queries in **SQL Server**  
-- Build **data analytics projects**  
-- Create dashboards using **Power BI**  
-- Analyze and report data using **Excel**
-
----
-
-## 🛠️ Tech Stack
-- SQL | Excel | Power BI | SQL Server | Git | GitHub  
+## 🛠️ Skills
+SQL | Excel | Power BI | SQL Server | Git
 
 ---
 
 ## 📊 Projects
-- **Retail Sales Analysis** – SQL + Power BI dashboard for business insights  
-- **Customer Segmentation** – Identified high-value customer groups  
-- **Financial Analysis** – Excel-based reporting and insights  
-
----
-
-## 📈 Goal
-Become a Data Analyst and build impactful data-driven solutions.
+- Retail Sales Analysis  
 
 ---
 
