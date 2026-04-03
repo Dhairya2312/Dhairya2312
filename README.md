@@ -22,10 +22,10 @@ An end-to-end sales analytics system built on SQL Server. Designed the database 
 
 ## 🎯 2026 Roadmap
 
-- [x] Complete Deloitte Virtual Experience Program
-- [ ] Build portfolio website using GitHub Pages
-- [ ] Master Python for Data Science — Pandas & NumPy
-- [ ] Attain Microsoft PL-300 Power BI certification
+- [x] Complete Deloitte Virtual Experience Program.
+- [ ] Build portfolio website using GitHub Pages.
+- [ ] Master Python for Data Science — Pandas & NumPy.
+- [ ] Attain Microsoft PL-300 Power BI certification.
 
 ---
 
